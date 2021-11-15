@@ -1,8 +1,0 @@
-[theme]
-base="dark"
-primaryColor="#670796"
-backgroundColor="#000000"
-secondaryBackgroundColor="#670796"
-# .streamlit/secrets.toml
-
-password = "streamlit123"
